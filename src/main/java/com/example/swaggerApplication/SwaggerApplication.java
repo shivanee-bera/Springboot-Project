@@ -29,6 +29,7 @@ public class SwaggerApplication {
 					.apiInfo(apiInfo()).select().build();
 		}
 
+	
 
 //	 private ApiInfo apiInfo() {
 //			return new ApiInfo("Iconic Worker APIs", "API for Iconic Worker", "1.0", "1", null, "", "",
